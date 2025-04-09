@@ -38,10 +38,9 @@ body {
 }
 .icon{
     margin-left: auto;
-    display: flex;
+    display: block;
     height: 80px;
     width: auto;
-    border-radius: 0;
     object-fit: contain;
 }
 .chat-box {
