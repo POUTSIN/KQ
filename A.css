@@ -42,7 +42,7 @@ body {
     height: 80px;
     width: auto;
     object-fit: contain;
-    max-height: 100px;
+    flex-shrink: 0;
 }
 .chat-box {
     display: flex;
