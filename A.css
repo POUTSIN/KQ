@@ -36,6 +36,12 @@ body {
     border-radius: 45%;
     margin-right: 10px;
 }
+.icon{
+    margin-left: auto;
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
 .chat-box {
     display: flex;
     flex-direction: column;
