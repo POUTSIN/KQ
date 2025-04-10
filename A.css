@@ -36,15 +36,25 @@ body {
     border-radius: 45%;
     margin-right: 10px;
 }
-.icon{
-    margin-left: auto;
-    height: auto;
-    width: auto;
-    object-fit: none;
-    flex-shrink: 0;
-    display: block;
-    padding: 0;
-    border-radius: 0;
+.chat-icons {
+    background-color: transparent;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.chat-icons i {
+    color: white;
+    font-size: 32px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.chat-icons i:hover {
+    transform: scale(1.2);
 }
 .chat-box {
     display: flex;
