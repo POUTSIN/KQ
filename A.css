@@ -40,10 +40,11 @@ body {
     margin-left: auto;
     height: 60px;
     width: 40px;
-    object-fit: contain;
+    object-fit: none;
     flex-shrink: 0;
     display: block;
     padding: 0;
+    border-radius: 0;
 }
 .chat-box {
     display: flex;
