@@ -38,9 +38,9 @@ body {
 }
 .icon{
     margin-left: auto;
-    height: 80px;
+    height: 60px;
     width: 40px;
-    object-fit: cover;
+    object-fit: contain;
     flex-shrink: 0;
     display: block;
     padding: 0;
