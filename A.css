@@ -40,11 +40,11 @@ body {
 }
 .chat-icons {
     background-color: transparent;
-    padding: 15px;
     display: flex;
     justify-content: space-around;
     border-radius: 0;
     margin-left: auto;
+    height: 10px;
 }
 
 .chat-icons i {
