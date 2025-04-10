@@ -38,8 +38,8 @@ body {
 }
 .icon{
     margin-left: auto;
-    height: 60px;
-    width: 40px;
+    height: auto;
+    width: auto;
     object-fit: none;
     flex-shrink: 0;
     display: block;
