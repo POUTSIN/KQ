@@ -44,12 +44,13 @@ body {
     justify-content: space-around;
     border-radius: 0;
     margin-left: auto;
-    height: 10px;
+    height: 5px;
+    padding: 10px;
 }
 
 .chat-icons i {
     color: white;
-    font-size: 10px;
+    font-size: 5px;
     cursor: pointer;
     transition: transform 0.2s ease;
 }
