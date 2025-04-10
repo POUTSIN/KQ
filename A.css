@@ -49,7 +49,7 @@ body {
 
 .chat-icons i {
     color: white;
-    font-size: 18px;
+    font-size: 10px;
     cursor: pointer;
     transition: transform 0.2s ease;
 }
