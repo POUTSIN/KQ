@@ -41,14 +41,13 @@ body {
     padding: 15px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    border-radius: 10px;
-    margin: 10px 0;
+    border-radius: 0;
+    margin-left: auto;
 }
 
 .chat-icons i {
     color: white;
-    font-size: 32px;
+    font-size: 25px;
     cursor: pointer;
     transition: transform 0.2s ease;
 }
