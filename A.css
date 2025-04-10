@@ -23,6 +23,7 @@ body {
     margin-right: 0;
     padding-right: 0;
     padding-left: 0;
+    height: 80%;
 }
 .chat-header {
     background: #0078ff;
