@@ -38,11 +38,11 @@ body {
 }
 .icon{
     margin-left: auto;
-    display: block;
     height: 80px;
-    width: auto;
+    width: 40px;
     object-fit: contain;
     flex-shrink: 0;
+    background: red;
 }
 .chat-box {
     display: flex;
